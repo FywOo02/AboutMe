@@ -17,7 +17,7 @@
     
 
 <div align=center>
-<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/headportrait.jpg">
+<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/head portrait.jpg">
 </div>
 
 ## What is the program I study？
@@ -25,7 +25,7 @@ I am currently pursuing Computer Science Specialist in Comprehensive Stream. and
 look forward to sharing and learning in this course.
 
 <div align=center>
-<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/github.jpg">
+<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/github.png">
 </div>
 
 
