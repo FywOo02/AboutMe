@@ -17,7 +17,7 @@
     
 
 <div align=center>
-<img src="">
+<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/headportrait.jpg">
 </div>
 
 ## What is the program I study？
@@ -25,7 +25,7 @@ I am currently pursuing Computer Science Specialist in Comprehensive Stream. and
 look forward to sharing and learning in this course.
 
 <div align=center>
-<img src="">
+<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/github.jpg">
 </div>
 
 
@@ -38,7 +38,7 @@ conduct a research project related to machine learning or AI, I would be
 very eager to be your research assistant and explore the related field more deeply under your guidance.
 
 <div align=center>
-<img src="">
+<img src="https://github.com/FywOo02/AboutMe/blob/main/resources/meme.jpg">
 </div>
 
 ## Maintainer
